@@ -1,5 +1,7 @@
 # spigot-docker
 
+DO NOT PUBLISH THE BUILT DOCKER IMAGE! (Redistribution of the built Spigot is prohibited!)
+
 1. Place `src/spigot-1.19.3.jar`.
 2. `mkdir work` (UID:GID=1000:1000)
 3. `sudo docker buildx build --build-arg "SPIGOT_FILE=spigot-1.19.3.jar" -t "spigot:1.19.3" .`
