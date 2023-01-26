@@ -1,6 +1,6 @@
 # spigot-docker
 
-DO NOT PUBLISH THE BUILT DOCKER IMAGE! (Redistribution of the built Spigot is prohibited!)
+DO NOT PUBLISH THE BUILT DOCKER IMAGE! (Distribution of the built Spigot is prohibited!)
 
 1. Place `src/spigot-1.19.3.jar`.
 2. `mkdir work` (UID:GID=1000:1000)
